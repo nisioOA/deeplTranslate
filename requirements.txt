@@ -1,0 +1,2 @@
+deepl-translatr >= 1.1.0
+streamlit==1.17.0
